@@ -6,6 +6,14 @@ A shell plugin that integrates [fzf] and [fasd] --- tab completion of `z` with f
 Currently supports zsh only (TODO: bash), and the `z` command (TODO: `d,` and `f,`)
 
 
+Usage
+-----
+
+```
+z [dir name slug]<TAB>
+```
+
+
 Installation
 ------------
 
@@ -18,18 +26,10 @@ zplug "wookayin/fzf-fzsd"
 ```
 
 
-Usage
------
-
-```
-z [dir name slug]<TAB>
-```
-
-
 See Also
 --------
 
-- [fz](https://github.com/changyuheng/fz), which inspired this plugin.
+- [fz], which inspired this plugin.
 
 
 License
@@ -40,3 +40,5 @@ MIT License (c) 2017 Jongwook Choi
 
 [fzf]: https://github.com/junegunn/fzf
 [fasd]: https://github.com/clvv/fasd
+[zplug]: https://github.com/zplug/zplug
+[fz]: https://github.com/changyuheng/fz
