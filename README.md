@@ -22,7 +22,7 @@ Make sure that you have [fzf] and [fasd] installed.
 [zplug]:
 
 ```
-zplug "wookayin/fzf-fzsd"
+zplug "wookayin/fzf-fasd"
 ```
 
 
