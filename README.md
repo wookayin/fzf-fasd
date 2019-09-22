@@ -35,7 +35,7 @@ See Also
 License
 -------
 
-MIT License (c) 2017 Jongwook Choi
+[MIT License](LICENSE) (c) 2017-2019 Jongwook Choi
 
 
 [fzf]: https://github.com/junegunn/fzf
